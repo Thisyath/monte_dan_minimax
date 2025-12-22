@@ -8,8 +8,8 @@
     "win_rate": 0.0,
     "avg_move_time": 2.0,
     "std_move_time": 0.0,
-    "avg_cp_loss": 381.50524475524475,
-    "move_match_rate": 0.32867132867132864,
-    "total_moves": 122
+    "avg_cp_loss": 56.87179487179487,
+    "move_match_rate": 0.4358974358974359,
+    "total_moves": 78
   }
 }
