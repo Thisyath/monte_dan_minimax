@@ -1,0 +1,206 @@
+{
+  "game_id": "mjgxim5o",
+  "algorithm": "Minimax (Evaluasi Statis)",
+  "depth": 3,
+  "result": "Stockfish Win",
+  "moves": [
+    {
+      "number": 1,
+      "move": "e2e4",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    },
+    {
+      "number": 2,
+      "move": "g8h6",
+      "player": "algorithm",
+      "quality": "mistake",
+      "cpLoss": 89
+    },
+    {
+      "number": 3,
+      "move": "d2d4",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 6
+    },
+    {
+      "number": 4,
+      "move": "h8g8",
+      "player": "algorithm",
+      "quality": "mistake",
+      "cpLoss": 65
+    },
+    {
+      "number": 5,
+      "move": "g1f3",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    },
+    {
+      "number": 6,
+      "move": "h6g4",
+      "player": "algorithm",
+      "quality": "mistake",
+      "cpLoss": 64
+    },
+    {
+      "number": 7,
+      "move": "f3g5",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -16
+    },
+    {
+      "number": 8,
+      "move": "h7h5",
+      "player": "algorithm",
+      "quality": "good",
+      "cpLoss": 20
+    },
+    {
+      "number": 9,
+      "move": "h2h3",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -11
+    },
+    {
+      "number": 10,
+      "move": "g4f6",
+      "player": "algorithm",
+      "quality": "mistake",
+      "cpLoss": 77
+    },
+    {
+      "number": 11,
+      "move": "e4e5",
+      "player": "stockfish",
+      "quality": "good",
+      "cpLoss": 14
+    },
+    {
+      "number": 12,
+      "move": "f6d5",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 101
+    },
+    {
+      "number": 13,
+      "move": "c2c4",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 5
+    },
+    {
+      "number": 14,
+      "move": "d5b6",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 205
+    },
+    {
+      "number": 15,
+      "move": "d1f3",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -42
+    },
+    {
+      "number": 16,
+      "move": "f7f6",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": 0
+    },
+    {
+      "number": 17,
+      "move": "f1d3",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 5
+    },
+    {
+      "number": 18,
+      "move": "g7g6",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": 6
+    },
+    {
+      "number": 19,
+      "move": "d3g6",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -4
+    },
+    {
+      "number": 20,
+      "move": "g8g6",
+      "player": "algorithm",
+      "quality": "good",
+      "cpLoss": 12
+    },
+    {
+      "number": 21,
+      "move": "f3h5",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 0
+    },
+    {
+      "number": 22,
+      "move": "f8g7",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 9288
+    },
+    {
+      "number": 23,
+      "move": "h5g6",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    },
+    {
+      "number": 24,
+      "move": "e8f8",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": 0
+    },
+    {
+      "number": 25,
+      "move": "g6f7",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    }
+  ],
+  "algorithmWins": 0,
+  "stockfishWins": 1,
+  "draws": 0,
+  "totalMoves": 25,
+  "accuracy": {
+    "excellent": 3,
+    "good": 2,
+    "inaccuracy": 0,
+    "mistake": 4,
+    "blunder": 3,
+    "totalCPLoss": 9927,
+    "evaluatedMoves": 12
+  },
+  "stockfishAccuracy": {
+    "excellent": 12,
+    "good": 1,
+    "inaccuracy": 0,
+    "mistake": 0,
+    "blunder": 0,
+    "totalCPLoss": 107,
+    "evaluatedMoves": 13
+  },
+  "timestamp": "2025-12-22T17:03:49.170772"
+}

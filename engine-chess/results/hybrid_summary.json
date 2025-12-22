@@ -1,17 +1,15 @@
 {
-    "config": {
-        "n_games": 2,
-        "depth": 3,
-        "use_mc": true,
-        "rollout_count": 10
-    },
-    "metrics": {
-        "win_rate": 0.0,
-        "avg_move_time": 15.475422017276287,
-        "std_move_time": 7.257790821272346,
-        "avg_cp_loss": 354.25,
-        "std_cp_loss": 1636.98593999519,
-        "move_match_rate": 0.09375,
-        "total_moves": 32
-    }
+  "config": {
+    "depth": 3,
+    "n_games": 2,
+    "rollout_count": 10
+  },
+  "metrics": {
+    "win_rate": 0.0,
+    "avg_move_time": 2.0,
+    "std_move_time": 0.0,
+    "avg_cp_loss": 381.50524475524475,
+    "move_match_rate": 0.32867132867132864,
+    "total_moves": 122
+  }
 }

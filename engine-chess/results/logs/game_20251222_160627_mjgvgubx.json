@@ -1,0 +1,325 @@
+{
+  "game_id": "mjgvgubx",
+  "algorithm": "Hybrid (Monte Carlo)",
+  "depth": 3,
+  "result": "Stockfish Win",
+  "moves": [
+    {
+      "number": 1,
+      "move": "g1h3",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 110
+    },
+    {
+      "number": 2,
+      "move": "e7e5",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    },
+    {
+      "number": 3,
+      "move": "h3g5",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 357
+    },
+    {
+      "number": 4,
+      "move": "d8g5",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -10
+    },
+    {
+      "number": 5,
+      "move": "g2g4",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 113
+    },
+    {
+      "number": 6,
+      "move": "d7d5",
+      "player": "stockfish",
+      "quality": "good",
+      "cpLoss": 12
+    },
+    {
+      "number": 7,
+      "move": "h1g1",
+      "player": "algorithm",
+      "quality": "inaccuracy",
+      "cpLoss": 38
+    },
+    {
+      "number": 8,
+      "move": "b8c6",
+      "player": "stockfish",
+      "quality": "good",
+      "cpLoss": 24
+    },
+    {
+      "number": 9,
+      "move": "h2h3",
+      "player": "algorithm",
+      "quality": "mistake",
+      "cpLoss": 93
+    },
+    {
+      "number": 10,
+      "move": "g5d8",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 0
+    },
+    {
+      "number": 11,
+      "move": "g1g2",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 115
+    },
+    {
+      "number": 12,
+      "move": "d5d4",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -10
+    },
+    {
+      "number": 13,
+      "move": "g2g3",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": -4
+    },
+    {
+      "number": 14,
+      "move": "a7a5",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 4
+    },
+    {
+      "number": 15,
+      "move": "g3g2",
+      "player": "algorithm",
+      "quality": "mistake",
+      "cpLoss": 56
+    },
+    {
+      "number": 16,
+      "move": "g8e7",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -4
+    },
+    {
+      "number": 17,
+      "move": "g2g3",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": -13
+    },
+    {
+      "number": 18,
+      "move": "e7g6",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 6
+    },
+    {
+      "number": 19,
+      "move": "g3f3",
+      "player": "algorithm",
+      "quality": "mistake",
+      "cpLoss": 89
+    },
+    {
+      "number": 20,
+      "move": "f7f6",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -27
+    },
+    {
+      "number": 21,
+      "move": "f3f4",
+      "player": "algorithm",
+      "quality": "mistake",
+      "cpLoss": 99
+    },
+    {
+      "number": 22,
+      "move": "c6a7",
+      "player": "stockfish",
+      "quality": "mistake",
+      "cpLoss": 72
+    },
+    {
+      "number": 23,
+      "move": "f4e4",
+      "player": "algorithm",
+      "quality": "inaccuracy",
+      "cpLoss": 36
+    },
+    {
+      "number": 24,
+      "move": "c7c5",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 10
+    },
+    {
+      "number": 25,
+      "move": "e4e5",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": -15
+    },
+    {
+      "number": 26,
+      "move": "f6e5",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 7
+    },
+    {
+      "number": 27,
+      "move": "d2d3",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": -28
+    },
+    {
+      "number": 28,
+      "move": "f8e7",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    },
+    {
+      "number": 29,
+      "move": "f1g2",
+      "player": "algorithm",
+      "quality": "inaccuracy",
+      "cpLoss": 26
+    },
+    {
+      "number": 30,
+      "move": "e7h4",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -11
+    },
+    {
+      "number": 31,
+      "move": "g2c6",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 119
+    },
+    {
+      "number": 32,
+      "move": "a7c6",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": 2
+    },
+    {
+      "number": 33,
+      "move": "c1e3",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 220
+    },
+    {
+      "number": 34,
+      "move": "d4e3",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -80
+    },
+    {
+      "number": 35,
+      "move": "e1f1",
+      "player": "algorithm",
+      "quality": "blunder",
+      "cpLoss": 8922
+    },
+    {
+      "number": 36,
+      "move": "h4f2",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -2
+    },
+    {
+      "number": 37,
+      "move": "d1e1",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": 3
+    },
+    {
+      "number": 38,
+      "move": "d8h4",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    },
+    {
+      "number": 39,
+      "move": "f1g2",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": 0
+    },
+    {
+      "number": 40,
+      "move": "h4g3",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    },
+    {
+      "number": 41,
+      "move": "g2h1",
+      "player": "algorithm",
+      "quality": "excellent",
+      "cpLoss": 0
+    },
+    {
+      "number": 42,
+      "move": "g3h3",
+      "player": "stockfish",
+      "quality": "excellent",
+      "cpLoss": -1
+    }
+  ],
+  "algorithmWins": 0,
+  "stockfishWins": 1,
+  "draws": 0,
+  "totalMoves": 42,
+  "accuracy": {
+    "excellent": 7,
+    "good": 0,
+    "inaccuracy": 3,
+    "mistake": 4,
+    "blunder": 7,
+    "totalCPLoss": 10456,
+    "evaluatedMoves": 21
+  },
+  "stockfishAccuracy": {
+    "excellent": 18,
+    "good": 2,
+    "inaccuracy": 0,
+    "mistake": 1,
+    "blunder": 0,
+    "totalCPLoss": 286,
+    "evaluatedMoves": 21
+  },
+  "timestamp": "2025-12-22T16:06:27.220081"
+}
